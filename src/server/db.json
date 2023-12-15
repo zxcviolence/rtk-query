@@ -1,0 +1,16 @@
+{
+    "todos": [
+      {
+        "id": 1,
+        "text": "create vite react"
+      },
+      {
+        "id": 2,
+        "text": "learn rtk"
+      },
+      {
+        "id": 3,
+        "text": "sell my own castle in the game"
+      }
+    ]
+  }
